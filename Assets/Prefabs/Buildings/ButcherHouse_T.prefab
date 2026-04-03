@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2697321335720736234}
+  - component: {fileID: 7486413345663184441}
   m_Layer: 0
   m_Name: ButcherHouse_T
   m_TagString: Untagged
@@ -34,6 +35,23 @@ Transform:
   - {fileID: 8422362609061142780}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7486413345663184441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754081924725232993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nom: Rudimentary Woodcutter House
+  description: "Description du b\xE2timent ici (courte)"
+  imageBouton: {fileID: 0}
+  points: []
+  canDrag: 1
 --- !u!1001 &1324390628590032870
 PrefabInstance:
   m_ObjectHideFlags: 0
