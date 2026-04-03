@@ -44,9 +44,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nom: Well_S
-  description: "Description du b\xE2timent ici (courte)"
-  imageBouton: {fileID: 0}
+  nom: "Puit Interm\xE9diaire"
+  description: Source d'eau et de vie
+  imageBouton: {fileID: 21300000, guid: 5251b0f5b46144349bad6cc98bee82a6, type: 3}
   points: []
   canDrag: 1
 --- !u!1 &4943217145650118857
