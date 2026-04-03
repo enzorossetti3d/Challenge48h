@@ -263,6 +263,14 @@ PrefabInstance:
       value: BuildingCollider
       objectReference: {fileID: 0}
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
@@ -301,6 +309,22 @@ PrefabInstance:
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495517817835618142, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_Size.x
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495517817835618142, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_Size.y
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495517817835618142, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_Size.z
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495517817835618142, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
+      propertyPath: m_Center.y
+      value: 0.6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
