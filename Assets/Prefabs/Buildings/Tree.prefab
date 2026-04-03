@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 2697321335720736234}
   - component: {fileID: 7486413345663184441}
   m_Layer: 0
-  m_Name: ButcherHouse_T
+  m_Name: Tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -97,7 +97,7 @@ MonoBehaviour:
   description: 'la meilleur source de bois '
   imageBouton: {fileID: 0}
   points: []
-  canDrag: 0
+  canDrag: 1
 --- !u!1001 &1324390628590032870
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -254,6 +254,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SphereCollider
       objectReference: {fileID: 0}
+    - target: {fileID: 718977391802540954, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 718977391802540955, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -292,6 +296,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 718977391802540955, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 718977391802540956, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
