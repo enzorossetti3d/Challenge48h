@@ -51,9 +51,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nom: Maison Bucheron
   description: Fourni du bois, essentiel pour vos installations
-  imageBouton: {fileID: 21300000, guid: 718b6b29c52c42d408bd59244643f0e9, type: 3}
+  imageBouton: {fileID: 21300000, guid: c3cd5df8a7dfac846abbb17e75df980d, type: 3}
   points:
-  - nom: Tree
+  - nom: Arbre
     bonus: 1
     malus: 0
   canDrag: 1

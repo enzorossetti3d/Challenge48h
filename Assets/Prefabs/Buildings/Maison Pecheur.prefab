@@ -51,7 +51,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nom: Maison du Pecheur
   description: Source d'alimentation qui degage une forte odeur
-  imageBouton: {fileID: 21300000, guid: c9a4821dce519f64e9de19584b97bc9a, type: 3}
+  imageBouton: {fileID: 21300000, guid: 9aacb146d5c33d44a92abecd8649cf56, type: 3}
   points:
   - nom: Maison Bucheron
     bonus: 0
