@@ -59,7 +59,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5686789109768246270}
   m_Layer: 0
-  m_Name: Well_S
+  m_Name: Well_W
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
