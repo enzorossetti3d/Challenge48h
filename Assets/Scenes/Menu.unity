@@ -1635,7 +1635,7 @@ GameObject:
   - component: {fileID: 1974574751}
   - component: {fileID: 1974574750}
   m_Layer: 5
-  m_Name: Title
+  m_Name: Islanders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1650,14 +1650,14 @@ RectTransform:
   m_GameObject: {fileID: 1974574748}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.9022, y: 2.9022, z: 2.9022}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1436708001}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000015259, y: 220}
+  m_AnchoredPosition: {x: 0.000015259, y: 352}
   m_SizeDelta: {x: 488.1377, y: 183.0661}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1974574750
@@ -1693,7 +1693,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Titre
+  m_Text: Islanders
 --- !u!222 &1974574751
 CanvasRenderer:
   m_ObjectHideFlags: 0
