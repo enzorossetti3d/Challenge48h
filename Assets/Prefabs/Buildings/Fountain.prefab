@@ -49,14 +49,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nom: Fontaine
-  description: "L'eau est pr\xE9cieuse ici."
+  nom: Puits
+  description: La base de la survie
   imageBouton: {fileID: 21300000, guid: 89a6ae3242d34004ead254ba13c5f976, type: 3}
   points:
-  - nom: Maison
-    bonus: 3
+  - nom: Maison Bucheron
+    bonus: 2
     malus: 0
-  - nom: Fontaine
+  - nom: Maison du Pecheur
     bonus: 0
     malus: -1
   canDrag: 1
