@@ -686,6 +686,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 6096584323604559736, guid: 98ec39594b21922428914bd2290e54b6, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 7624ddb19e0ec504d9bf1cbd4d5641d0, type: 3}
+    - target: {fileID: 8549810263865518688, guid: 98ec39594b21922428914bd2290e54b6, type: 3}
+      propertyPath: m_Resource
+      value: 
+      objectReference: {fileID: 8300000, guid: 12e10e940be0fba41aaea7147d0eebaf, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

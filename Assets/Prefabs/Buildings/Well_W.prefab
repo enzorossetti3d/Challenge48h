@@ -100,7 +100,10 @@ MonoBehaviour:
   nom: Rudimentary Well
   description: une source d'eau potable est essentielle
   imageBouton: {fileID: 21300000, guid: 6483a003b4d148447b1451a023a03b0e, type: 3}
-  points: []
+  points:
+  - nom: Water
+    bonus: 0
+    malus: -10
   canDrag: 1
 --- !u!1001 &2463257145775606986
 PrefabInstance:

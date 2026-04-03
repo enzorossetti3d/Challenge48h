@@ -50,7 +50,10 @@ MonoBehaviour:
   nom: Advanced Fisherman's House
   description: "Description du b\xE2timent ici (courte)"
   imageBouton: {fileID: 21300000, guid: 9aacb146d5c33d44a92abecd8649cf56, type: 3}
-  points: []
+  points:
+  - nom: Water
+    bonus: 15
+    malus: 0
   canDrag: 1
 --- !u!1001 &711065021467731060
 PrefabInstance:
@@ -66,15 +69,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.94
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.52
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.15
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7386765860639618842, guid: cce4083a0935f0b4da2254cdd0b71583, type: 3}
       propertyPath: m_LocalRotation.w
@@ -251,7 +254,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 202e3cb073c8415468382db1a3c205fa, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 2.32
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 202e3cb073c8415468382db1a3c205fa, type: 3}
       propertyPath: m_LocalPosition.y

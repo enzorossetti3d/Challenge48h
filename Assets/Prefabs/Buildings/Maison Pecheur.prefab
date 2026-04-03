@@ -56,6 +56,9 @@ MonoBehaviour:
   - nom: Maison Bucheron
     bonus: 0
     malus: -2
+  - nom: Water
+    bonus: 15
+    malus: 0
   canDrag: 1
 --- !u!95 &4695236174400535985
 Animator:
@@ -96,16 +99,28 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: abce977f1413f1a428377193fb4dd755, type: 2}
     - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.60225
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.60225
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.60225
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.55
+      value: 1.81
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.01
+      value: 0.74
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.54
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4bf45eb7c27630e44a9f22e8ba5cca14, type: 3}
       propertyPath: m_LocalRotation.w
@@ -519,7 +534,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 718977391802540955, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.84
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 718977391802540955, guid: 0bd6798d39b96554e9834bd31c65aad5, type: 3}
       propertyPath: m_LocalPosition.z
