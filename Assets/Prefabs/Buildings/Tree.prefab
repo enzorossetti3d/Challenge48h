@@ -93,7 +93,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nom: Tree
+  nom: Arbre
   description: 'la meilleur source de bois '
   imageBouton: {fileID: 0}
   points: []
