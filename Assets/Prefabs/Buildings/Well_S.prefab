@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nom: Advanced Well
-  description: "Description du b\xE2timent ici (courte)"
+  description: une source d'eau potable est essentielle
   imageBouton: {fileID: 0}
   points: []
   canDrag: 1
