@@ -47,10 +47,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nom: Advanced Woodcutter House
-  description: "Description du b\xE2timent ici (courte)"
-  imageBouton: {fileID: 0}
-  points: []
+  nom: "Maison de bucheron avanc\xE9e"
+  description: Couper du bois efficacement
+  imageBouton: {fileID: 21300000, guid: 5251b0f5b46144349bad6cc98bee82a6, type: 3}
+  points:
+  - nom: Arbre
+    bonus: 3
+    malus: 0
   canDrag: 1
 --- !u!1001 &6801830418637278148
 PrefabInstance:
