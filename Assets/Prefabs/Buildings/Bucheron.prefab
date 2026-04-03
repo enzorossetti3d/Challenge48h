@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7982054713076713438}
   - component: {fileID: 7474482337887816008}
   m_Layer: 0
-  m_Name: House
+  m_Name: Bucheron
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50,11 +50,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nom: Maison Bucheron
-  description: 'Essenciel pour l''evolution '
+  description: Fourni du bois, essentiel pour vos installations
   imageBouton: {fileID: 21300000, guid: 718b6b29c52c42d408bd59244643f0e9, type: 3}
   points:
   - nom: Tree
-    bonus: 3
+    bonus: 1
     malus: 0
   canDrag: 1
 --- !u!95 &7474482337887816008
