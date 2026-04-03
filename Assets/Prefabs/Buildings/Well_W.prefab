@@ -99,7 +99,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nom: Rudimentary Well
   description: une source d'eau potable est essentielle
-  imageBouton: {fileID: 0}
+  imageBouton: {fileID: 21300000, guid: 5251b0f5b46144349bad6cc98bee82a6, type: 3}
   points: []
   canDrag: 1
 --- !u!1001 &2463257145775606986

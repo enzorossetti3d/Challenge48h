@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5462c902686d9b84e80e89b5b2e26e97, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nom: Advance woodcutter house
+  nom: Maison Bucheron
   description: 'Essenciel pour l''evolution '
   imageBouton: {fileID: 21300000, guid: 718b6b29c52c42d408bd59244643f0e9, type: 3}
   points:
@@ -169,6 +169,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 7982054713076713439}
     m_Modifications:
+    - target: {fileID: -9107327215560732493, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e3dfa3efd49c6543aa496a2d1691711, type: 2}
     - target: {fileID: -8679921383154817045, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -209,10 +213,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3526246902784151508, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e3dfa3efd49c6543aa496a2d1691711, type: 2}
+    - target: {fileID: -514343277903624304, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e3dfa3efd49c6543aa496a2d1691711, type: 2}
+    - target: {fileID: -305091885687274788, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e3dfa3efd49c6543aa496a2d1691711, type: 2}
+    - target: {fileID: -230070016334356081, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb317936d780f27459e1f232d042c19b, type: 2}
     - target: {fileID: 919132149155446097, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
       propertyPath: m_Name
       value: Wood_Butcher
       objectReference: {fileID: 0}
+    - target: {fileID: 8777586809397776855, guid: 817d9bc1c2c640940a82eba896659d66, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e3dfa3efd49c6543aa496a2d1691711, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
